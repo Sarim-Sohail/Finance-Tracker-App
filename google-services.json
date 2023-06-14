@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904626889984",
+    "project_id": "finance-tracker-ee2d0",
+    "storage_bucket": "finance-tracker-ee2d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904626889984:android:b940faa0fbf80e73907fe5",
+        "android_client_info": {
+          "package_name": "com.sarims.smdproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhYJ1BzvnQsj6-JRxZCyidUWwd4hVzFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

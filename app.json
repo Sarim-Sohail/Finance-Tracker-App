@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "name": "Finance Tracker",
+    "slug": "smdproject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/4539251.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icons/4539251.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f68f54"
+    },
+    "plugins": [
+      
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Finance Tracker to access your media library and camera"
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Finance Tracker to access your location."
+        }
+      ]
+    ],
+    "assetBundlePatterns": [
+      "assets/fonts"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyA3FzKFHiA7bUcmOaubinG6wqCZt8Dw7Yk"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/4539251.png",
+        "backgroundColor": "#ffffff"
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "com.sarims.smdproject",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA3FzKFHiA7bUcmOaubinG6wqCZt8Dw7Yk"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "61775f11-70d4-4114-b867-4738668614e8"
+      }
+    }
+  }
+}
