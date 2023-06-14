@@ -4,5 +4,5 @@ This app serves to help the user track their finances. It was built for a course
 
 # Members:
 
-19K-0153 - Sarim Sohail
+19K-0153 - Sarim Sohail  
 19K-1335 - Muhammad Hassan
