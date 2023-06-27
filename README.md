@@ -1,8 +1,4 @@
-# Finance Tracker
+## Spendrr Finance Tracker
 
-This app serves to help the user track their finances. It was built using React Native, alongside Firebase and Expo. A working apk is created for the app.
+This app serves to help the user track their finances. It was built using React Native and uses Firebase. It was developed with the help of Expo. A working apk is created for the app.
 
-# Members:
-
-19K-0153 - Sarim Sohail  
-19K-1335 - Muhammad Hassan
